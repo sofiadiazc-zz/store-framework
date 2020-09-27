@@ -128,7 +128,7 @@
       "link": {
         "url": "/small-appliances/coffee-makers"
       } ,
-      "maxWidth":100,
+      "maxWidth":"100%",
       "alt": "Coffee Makers Collection"
     }
   },
@@ -139,6 +139,7 @@
       "link": {
         "url": "/small-appliances/coffee-makers"
       } ,
+      "maxWidth":"100%",
       "alt": "Coffee Makers Collection"
     }
   }
