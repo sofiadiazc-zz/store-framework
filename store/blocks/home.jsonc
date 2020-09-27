@@ -85,20 +85,6 @@
       "maxWidth": "100%"
     }
   },
-
-  "product-summary.shelf": {
-    "children": [
-      "product-summary-image",
-      "product-summary-add-to-list-button",
-      "product-summary-name",
-      "product-rating-inline",
-      "product-summary-space",
-      "product-summary-price",
-      "product-identifier.summary",
-      "product-summary-buy-button"
-    ]
-  },
-
   "responsive-layout.desktop#desktop": {
     "children": ["rich-text#desktop","image#desktop"]
   },
