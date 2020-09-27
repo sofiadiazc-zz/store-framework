@@ -1,6 +1,6 @@
 {
   "store.search": {
-    "blocks": ["search-result-layout", "flex-layout.row#top","flex-layout.row#results"]
+    "blocks": ["search-result-layout"]
   },
   "search-result-layout": {
      "blocks": [
@@ -12,7 +12,9 @@
   "search-result-layout.desktop":{
     "children": ["breadcrumb.search",
       "search-title.v2",
+      "flex-layout.row#top",
       "search-fetch-previous",
+      "flex-layout.row#results",
       "search-fetch-more"]
   },
   "flex-layout.row#top": {
