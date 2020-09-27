@@ -43,9 +43,9 @@
       "login"
     ],
     "props":{
-        "inverted":"true",
-        "sticky":"true",
-        "fullWidth":"false"
+        "sticky": true,
+        "fullWidth":"false",
+        "inverted":true
     }
   },
 
