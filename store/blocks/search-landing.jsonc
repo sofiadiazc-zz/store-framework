@@ -1,14 +1,14 @@
 {
     "store.custom#landing": {
         "blocks":[
-            "image",
+            "image#landingbanner",
             "search-result-layout.customQuery"
         ]
     },
-    "image":{
+    "image#landingbanner": {
         "props": {
             "minWidth": 100,
-            "src": "https://storecomponents.vteximg.com.br/arquivos/box.png" 
+            "src": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png" 
         }
     },
     "search-result-layout.customQuery":{
